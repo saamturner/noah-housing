@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "saamturner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "saamturner",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-05-01T15:38:34.471Z",
-    "updated_at": "2025-05-01T15:38:34.471Z"
-  }
+    "updated_at": "2025-05-01T15:38:34.471Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "6843ddb0-c56e-4c30-befd-e01cece82818": {
+      "content": [],
+      "created_at": "2025-05-01T15:38:34.487Z",
+      "created_by": "saamturner",
+      "title": "Gentrification: The Housing Crisis",
+      "updated_at": "2025-05-01T15:38:34.488Z",
+      "updated_by": "saamturner",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "6843ddb0-c56e-4c30-befd-e01cece82818"
+  ]
 }
