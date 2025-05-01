@@ -1,5 +1,279 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Visualization of gentrification provides context and generates sense of empathy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "imagery"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "displacement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "exigence"
+        }
+      ],
+      "uuid": "046affb4-86a6-4a9b-b1c3-65e2a554c6de"
+    },
+    {
+      "start_time": 62,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Describing the housing crisis in specific cities brings upon the sense of urgency to audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "housing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "displacement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "location"
+        }
+      ],
+      "uuid": "d7d2bd39-2700-4600-b34f-3dc901ba64d9"
+    },
+    {
+      "start_time": 125,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Solution to high rent prices emphasizes that there is hope and audeience can help with taking action. Shaw, Jonathan D., Juan G. Restrepo, and Nancy Rodríguez. A Dynamical System Model of Gentrification: Exploring a Simple Rent Control Strategy. arXiv, 17 June 2024, https://arxiv.org/abs/2406.09723."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "academic article"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "families"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "informative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "communicaton"
+        }
+      ],
+      "uuid": "0480188b-ff1f-492f-9a6f-88cf5949cacd"
+    },
+    {
+      "start_time": 156,
+      "end_time": 179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Study that showed rent control reduced displacement motivates the audience to join the movement. Kholodilin, Konstantin A. \"Rent Control Effects through the Lens of Empirical Research.\" Journal of Housing Economics, vol. 63, Mar. 2024, p. 101983. ScienceDirect, https://doi.org/10.1016/j.jhe.2024.101983."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "academic article"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "informative"
+        }
+      ],
+      "uuid": "60fab332-cfd8-4a95-932c-7ce4ae82715b"
+    },
+    {
+      "start_time": 207,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drawbacks of rent control creates a sense of credibility as different viewpoints are addressed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "persuasive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "communitites"
+        }
+      ],
+      "uuid": "ee42af8a-789b-49df-a5ad-eff4cb66030d"
+    },
+    {
+      "start_time": 260,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By providing a logical approach to gentrification, it evokes logos and highlights the need for policy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "statistics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "housing"
+        }
+      ],
+      "uuid": "f4a5f60c-b6f1-4ef9-86b4-6aa647570ccb"
+    },
+    {
+      "start_time": 283,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Providing real world applications of rent control and its effects emphasizes the speaker's credibility."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "statistics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "persuasive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "location"
+        }
+      ],
+      "uuid": "10c77f95-1e71-4607-9612-224a07c36b45"
+    },
+    {
+      "start_time": 302,
+      "end_time": 309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clear call to action and motivates the audience to help immediately."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "persuasuve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "location"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "purpose"
+        }
+      ],
+      "uuid": "d81f2eaa-e4c9-441a-9440-38dc97382893"
+    },
+    {
+      "start_time": 327,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Highlighting that we need to preserve the communities that are being pushed out promotes a sympathetic tone amongst the audience. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "stakeholders"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "communities"
+        }
+      ],
+      "uuid": "01654660-bcd4-416b-8fe0-b1099bdf837c"
+    }
+  ],
   "set": "Default",
   "event_id": "dce33d3d-aae6-48a7-aaa3-a8a1dc0a537e",
   "source_id": "311758c6-2b38-4ef5-8c37-ce0dec747b6e"
