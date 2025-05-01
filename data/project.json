@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "saamturner",
+    "is_private": false,
+    "title": "Gentrification: The Housing Crisis",
+    "description": "In this video project, I discuss the drawbacks on the housing market as a result of gentrification. Using scholarly resources, I reference actions that have been taken in the past in order to bring upon possible solutions into the Houston Heights area.",
+    "language": "en",
+    "slug": "noah-housing",
+    "creator": "saamturner",
+    "authors": "Noah Vongsengdeuane",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-05-01T15:38:34.471Z",
+    "updated_at": "2025-05-01T15:38:34.471Z"
   }
 }
