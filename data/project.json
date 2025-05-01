@@ -81,10 +81,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "communitites"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "logos"
         },
         {
@@ -114,7 +110,7 @@
       ]
     },
     "created_at": "2025-05-01T15:38:34.471Z",
-    "updated_at": "2025-05-01T15:45:03.735Z",
+    "updated_at": "2025-05-01T15:47:21.768Z",
     "generate_pages_site": true
   },
   "annotations": {},
