@@ -89,10 +89,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "persuasuve"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "audience"
         },
         {
@@ -110,7 +106,7 @@
       ]
     },
     "created_at": "2025-05-01T15:38:34.471Z",
-    "updated_at": "2025-05-01T15:47:21.768Z",
+    "updated_at": "2025-05-01T15:47:29.812Z",
     "generate_pages_site": true
   },
   "annotations": {},
